@@ -4,8 +4,7 @@
   "main": "index.js",
   "scripts": {
     "start": "nodemon server.js",
-    "dev": "nodemon -r dotenv/config server.js",
-    "vercel-build":"nodemon -r dotenv/config server.js"
+    "dev": "nodemon -r dotenv/config server.js"
   },
   "keywords": [],
   "author": "",
